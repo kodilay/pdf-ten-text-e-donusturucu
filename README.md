@@ -1,4 +1,4 @@
-# pdften-text-e-donusturucu
+# pdften texte dönüştürücü
 PDF TEN METİN DOSYASINA DÖNÜŞTÜRME
 
 PDF'den TXT Dosyasına Dönüştürme
